@@ -1,4 +1,4 @@
 # Library
 Java Spring Framework App using:
-jbbcTemplate and RowMappers
-CRUD
+- jbbcTemplate and RowMappers
+- CRUD
